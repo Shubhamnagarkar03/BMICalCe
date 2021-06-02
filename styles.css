@@ -1,0 +1,92 @@
+#cond1{
+  width: 350px;
+  height: 50px;
+  font-family: 'Mate SC', serif;
+  text-align: center;
+}
+body{
+  text-align: center;
+  background-image: url(ab.svg);
+
+}
+#bd{
+  width: 10px;
+  height: 10px;
+
+}
+.main{
+  color: #810000;
+  text-shadow: 3px 4px  #f9dfdc;
+  font-family: 'Limelight', cursive;
+  text-decoration: underline 2px;
+}
+.sub{
+  font-family: 'Acme', sans-serif;
+  text-shadow: 2px 2px #0a1931;
+  color:#f6dfeb  ;
+  font-size: 27px;
+}
+.head2{
+  font-family: 'Tinos', serif;
+  text-decoration: underline 2px;
+  text-shadow: #fcecdd 2px 2px;
+  font-size: 40px;
+}
+.inp{
+  font-family: 'Mate SC', serif;
+  text-align: center;
+}
+
+#btn{
+  width: 100px;
+  height: 100px;
+}
+.outputnmi{
+  font-family: 'Mate SC', serif;
+  text-align: center;
+
+}
+#cond1{
+  font-family: 'Mate SC', serif;
+  text-align: center;
+  font-size: 20px;
+  width: 600px;
+
+}
+#outvalue{
+  font-size: 20px;
+
+}
+.cond{
+  font-family: 'Mate SC', serif;
+  text-align: center;
+
+}
+.tags{
+  color: #c6ffc1;
+  text-shadow: 1px 1px #04009a;
+  font-family: 'Staatliches', cursive;
+}
+.tags:hover{
+
+  color: #f8eded;
+  opacity: 0.5;
+}
+.midmain{
+  font-family: 'Pattaya', sans-serif;
+  text-shadow: 2px 2px white;
+}
+.midpara{
+  font-family: 'Tinos', serif;
+  color: #ffffc7;
+  text-shadow: 2px 1px black;
+  font-size: 21px;
+}
+.card{
+  margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+.last{
+  font-family: 'Cairo', sans-serif;
+}
